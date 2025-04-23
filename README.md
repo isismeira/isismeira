@@ -40,7 +40,7 @@
 
 ###
 
-<h1 align="left">Entre em contato</h1>
+<h1 align="left">Entre em contato 📞</h1>
 
 ###
 
