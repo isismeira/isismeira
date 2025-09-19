@@ -4,7 +4,7 @@
 
 ###
 
-<p align="center">🎓 Bacharelanda em Ciência da Computação pela <strong><em>Universidade Federal Fluminense (UFF)</em></strong><br><br>📖 Atualmente estudando <strong><em>Machine Learning, Deep Learning e Ciência de Dados</em></strong></p>
+<p align="center">🎓 Bacharelanda em Ciência da Computação pela <strong><em>Universidade Federal Fluminense (UFF)</em></strong><br><br>🔎 Bolsista de Iniciação Científica atuando no grupo de pesquisa <strong><em>Machine Learning and Language Learning Group (MeLLL-UFF)</em></strong> em tarefas de Processamento de Linguagem Natural</p>
 
 ###
 
