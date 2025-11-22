@@ -35,8 +35,6 @@
   <img width="12" />
   <img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white" height="35"   />
   <img width="12" />
-  <img src="https://img.shields.io/badge/huggingface-%23FFD21E.svg?style=for-the-badge&logo=huggingface&logoColor=white" height="30" />
-  <img width="12" />
 </div>
 
 ###
