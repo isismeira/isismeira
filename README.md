@@ -1,4 +1,4 @@
-<h1 align="left">Olá, bem-vindo(a) ao meu perfil👋</h1>
+<h1 align="left">Olá, bem-vindo(a) ao meu perfil 👋</h1>
 
 ###
 
@@ -10,7 +10,7 @@
 
 ###
 
-<h2 align="left">Tech Stack💻</h2>
+<h2 align="left">Tech Stack 💻</h2>
 
 ###
 
@@ -35,11 +35,13 @@
   <img width="12" />
   <img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white" height="35"   />
   <img width="12" />
+  <img src="https://img.shields.io/badge/huggingface-%23FFD21E.svg?style=for-the-badge&logo=huggingface&logoColor=white" height="30" />
+  <img width="12" />
 </div>
 
 ###
 
-<h2 align="left">Entre em contato 📞</h2>
+<h2 align="left">Social 👥</h2>
 
 ###
 
@@ -50,6 +52,9 @@
   <a href="isismeira127@gmail.com" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="30"   />
   </a>
+  <a href="https://huggingface.co/isismeira127" target="_blank">
+    <img src="https://img.shields.io/badge/huggingface-%23FFD21E.svg?style=for-the-badge&logo=huggingface&logoColor=white" height="30" />
+  </a>  
 </div>
 
 ###
